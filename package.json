@@ -14,7 +14,7 @@
     "busboy": "^0.3.1",
     "cors": "^2.8.5",
     "dezalgo": "^1.0.3",
-    "excel4node": "^1.7.2",
+    "excel4node": "^1.8.0",
     "express": "^4.17.1",
     "express-formidable": "^1.2.0",
     "formidable": "^2.0.0-canary.20200402.2",
